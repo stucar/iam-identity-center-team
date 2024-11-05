@@ -133,7 +133,7 @@ function Landing(props) {
                 tagOverride="h2"
                 padding={{ bottom: "s", top: "n" }}
               >
-                How it works
+                Just for you tom
               </Box>
               <Container className="picbox">
                 <div>
